@@ -1,4 +1,4 @@
-Class3_Getting_And_Cleaning_Data_Course_Project:
+Class3: Getting And Cleaning Data - Course Project:
 
 This is a  repository for the Course Project for the third course in the John Hopkins/ Coursera Data Science Certification. It contains the R code & documentation files for the "Getting And Cleaning Data" Course Project.
 
